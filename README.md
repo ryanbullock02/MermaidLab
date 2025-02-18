@@ -2,7 +2,7 @@
 Mermaid Lab
 
 ```mermaid
-  graph D;
+  graph TD;
       A-->B;
       A-->C;
       B-->D;
