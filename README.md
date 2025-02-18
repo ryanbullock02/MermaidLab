@@ -3,8 +3,7 @@ Mermaid Lab
 
 ```mermaid
   graph TD;
-  class A
-  {
+  class A{
     +test()
   }
       A-->B;
