@@ -5,7 +5,7 @@ Mermaid Lab
   graph TD;
   class A
   {
-    +test
+    +test()
   }
       A-->B;
       A-->C;
