@@ -2,12 +2,9 @@
 Mermaid Lab
 
 ```mermaid
-  graph TD;
+  classDiagram;
   class A{
     +test()
   }
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+
 ```
