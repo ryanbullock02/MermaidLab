@@ -2,9 +2,24 @@
 Mermaid Lab
 
 ```mermaid
-  classDiagram;
-  class A{
-    +test()
+erDiagram
+  PRODUCT
+  {
+
+  }
+  
+  CUSTOMER
+  {
+
   }
 
+  SALE
+  {
+
+  }
+
+  INVENTORY
+  {
+    
+  }
 ```
